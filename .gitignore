@@ -1,0 +1,4 @@
+# Portable MinGW (download into this folder to build without installing a compiler)
+tools/
+# Build output
+bin/
